@@ -20,6 +20,10 @@ public class PrimitivosNumericosFLoat {
         System.out.println("Valor maximo de un Double "+Double.MAX_VALUE);
         System.out.println("Valor minimo de un Double "+Double.MIN_VALUE);
         System.out.println("*******************************");
+
+        //VAR
+        var varFlotante = 3.1415;
+        System.out.println("varFlotante = " + varFlotante);
     }
 
 }
