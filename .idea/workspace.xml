@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abf3987a-4a8c-4b42-9813-773144a8f386" name="Default Changelist" comment="Secciones del curo">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/wjnov.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/arreglos/DefinicionesArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/arreglos/EjemploArregloForOrdenamientoBurbuja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/arreglos/EjemploArreglosEntero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/arreglos/EjemploArreglosString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/arreglos/EjemploIterarArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/arreglos/EjemploIterarArreglosInversoFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/arreglos/EjemploIterarArreglosInversoForMutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/claseSystem/EjemploAsignarPropiedadesDeSistemas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/claseSystem/EjemploEjecutarProgramaSO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/claseSystem/EjemploFuncionesUtilesdeLaClaseSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/claseSystem/EjemploPropiedadesDelSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/claseSystem/EjemploVariablesDeEntorno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/claseSystem/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/clasemath/EjemploClaseMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/clasemath/EjemploClaseMathRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/clasemath/EjemploClaseRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/claseswrapper/MetodoGetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/claseswrapper/WrapperAutoboxingUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/claseswrapper/WrapperBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/claseswrapper/WrapperInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/claseswrapper/WrapperOperadoresRelacionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/flujodecontrol/SentenciaFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/flujodecontrol/SentenciaForArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/flujodecontrol/SentenciaForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/flujodecontrol/SentenciaIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/flujodecontrol/SentenciaSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/flujodecontrol/SentenciaWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/flujodecontrol/SentenciasBucleEtiquetas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/flujodecontrol/SentenciasBucleEtiquetasBuscar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/javaUtilDate/EjemploJavaUtilCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/javaUtilDate/EjemploJavaUtilDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/javaUtilDate/EjemploJavaUtilDateParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/lineadecomando/ArgumentoLineaComando.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/operadores/OperadorAritmetico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/operadores/OperadorDeAsignacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/operadores/OperadorInstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/operadores/OperadorInstanceOfTiposGenericosOAbstractos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/operadores/OperadorLogicosLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/operadores/OperadorTernario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/operadores/OperadorTernarioNumeroMayor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/operadores/OperadoresIncrementales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/operadores/OperadoresLogicos1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/operadores/OperadoresRelacionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/operadores/OperadoresUnarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/operadores/PrecedenciaOperadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/string/EjemploString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/string/EjemploStringConcatenacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/string/EjemploStringExtensionArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/string/EjemploStringInmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/string/EjemploStringMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/string/EjemploStringMetodosArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/string/EjemploStringTestRendimientoConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/string/EjemploStringValidar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/valorvsreferencia/PasarPorReferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/valorvsreferencia/PasarPorReferencia2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/valorvsreferencia/PasarPorValor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjnnovoa/valorvsreferencia/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examplevariables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/example-variables-java.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uyJfO0VzsG67YNTNqJQPF9Lqac" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wjnnovoa.arreglos" />
+      <recent name="com.wjnnovoa.valorvsreferencia" />
+      <recent name="com.wjnnovoa.operadores" />
+      <recent name="com.wjnnovoa.string" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EjemploArregloForOrdenamientoBurbuja">
+    <configuration name="EjemploArregloForOrdenamientoBurbuja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjnnovoa.arreglos.EjemploArregloForOrdenamientoBurbuja" />
+      <module name="example-variables-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjnnovoa.arreglos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploArreglosString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjnnovoa.arreglos.EjemploArreglosString" />
+      <module name="example-variables-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjnnovoa.arreglos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploIterarArreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjnnovoa.arreglos.EjemploIterarArreglos" />
+      <module name="example-variables-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjnnovoa.arreglos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploIterarArreglosInversoFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjnnovoa.arreglos.EjemploIterarArreglosInversoFor" />
+      <module name="example-variables-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjnnovoa.arreglos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploIterarArreglosInversoForMutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjnnovoa.arreglos.EjemploIterarArreglosInversoForMutable" />
+      <module name="example-variables-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjnnovoa.arreglos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EjemploArreglosString" />
+      <item itemvalue="Application.EjemploIterarArreglos" />
+      <item itemvalue="Application.EjemploIterarArreglosInversoFor" />
+      <item itemvalue="Application.EjemploIterarArreglosInversoForMutable" />
+      <item itemvalue="Application.EjemploArregloForOrdenamientoBurbuja" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjemploArregloForOrdenamientoBurbuja" />
+        <item itemvalue="Application.EjemploIterarArreglosInversoForMutable" />
+        <item itemvalue="Application.EjemploIterarArreglosInversoFor" />
+        <item itemvalue="Application.EjemploIterarArreglos" />
+        <item itemvalue="Application.EjemploArreglosString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abf3987a-4a8c-4b42-9813-773144a8f386" name="Default Changelist" comment="" />
+      <created>1625632002746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625632002746</updated>
+      <workItem from="1625632018176" duration="1682000" />
+      <workItem from="1625673876184" duration="33821000" />
+      <workItem from="1625948643483" duration="154000" />
+      <workItem from="1625949124617" duration="14164000" />
+      <workItem from="1626147474487" duration="3634000" />
+      <workItem from="1626151706655" duration="20226000" />
+      <workItem from="1626239453348" duration="15519000" />
+      <workItem from="1626494999948" duration="220000" />
+    </task>
+    <task id="LOCAL-00001" summary="Conversion de tipos">
+      <created>1625676912418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625676912418</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Secciones del curo">
+      <created>1626495141122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626495141122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Conversion de tipos" />
+    <MESSAGE value="Secciones del curo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Secciones del curo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wjnnovoa/operadores/PrecedenciaOperadores.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wjnnovoa/flujodecontrol/SentenciaIfElse.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wjnnovoa/flujodecontrol/SentenciaSwitchCase.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wjnnovoa/flujodecontrol/SentenciaFor.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wjnnovoa/flujodecontrol/SentenciaForArreglo.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
